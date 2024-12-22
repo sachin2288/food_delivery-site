@@ -54,8 +54,9 @@ Open the `index.html` file in your browser.
 [Insert Live Demo Link Here]
 
 ## Screenshots
+![Screenshot 2024-12-22 at 6 25 58 p m  (2)](https://github.com/user-attachments/assets/abb0c7a2-a7fd-48ff-8949-a3c24d87b320)
 
-[Insert Screenshots Here]
+
 
 ## Contributing
 

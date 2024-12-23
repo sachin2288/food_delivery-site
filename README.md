@@ -77,8 +77,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Contact
 
-For questions, suggestions, or collaborations, feel free to reach out:
-
 - **Email:** sachinsah256@gmail.com
 - **GitHub:** sachin2288
 
